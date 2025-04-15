@@ -2,7 +2,7 @@
 We are the HumanAIGC Team at Tongyi, Alibaba. We focus on the understanding and generation of human-centric content.
 
 # Projects 
-- **OmniTalker**: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication. [Project](https://humanaigc.github.io/omnitalker/), [Paper](https://arxiv.org/abs/2504.02433v1)
+- **OmniTalker**: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication. [Project](https://humanaigc.github.io/omnitalker/), [Paper](https://arxiv.org/abs/2504.02433v1), [Demo](https://huggingface.co/spaces/Mrwrichard/OmniTalker)
 - **ChatAnyone**: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model. [Project](https://humanaigc.github.io/chat-anyone/), [Paper](https://arxiv.org/abs/2503.21144)
 - **LiteAvatar**: a audio2face model for realtime 2D chat avatar. [Code](https://github.com/HumanAIGC/lite-avatar)
 - **Animate Anyone 2**: High-Fidelity Character Image Animation with Environment Affordance. [Project](https://humanaigc.github.io/animate-anyone-2/), [Paper](https://arxiv.org/pdf/2502.06145)
