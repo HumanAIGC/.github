@@ -3,7 +3,7 @@ We are the HumanAIGC Team at Tongyi, Alibaba. We focus on the understanding and 
 
 # Projects 
 - Exploring Timeline Control for Facial Motion Generation. [Project](https://humanaigc.github.io/facial-motion-timeline-control/), [Paper](https://arxiv.org/abs/2505.20861)
-- **MotionRAG-Diff**: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation. [Project](https://humanaigc.github.io/MotionRAG-Diff/), [Paper](https://humanaigc.github.io/MotionRAG-Diff/static/pdfs/MotionRAG_Diff_preprint.pdf)
+- **MotionRAG-Diff**: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation. [Project](https://humanaigc.github.io/MotionRAG-Diff/), [Paper](https://arxiv.org/abs/2506.02661)
 - **OmniTalker**: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication. [Project](https://humanaigc.github.io/omnitalker/), [Paper](https://arxiv.org/abs/2504.02433v1), [Demo](https://huggingface.co/spaces/Mrwrichard/OmniTalker)
 - **ChatAnyone**: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model. [Project](https://humanaigc.github.io/chat-anyone/), [Paper](https://arxiv.org/abs/2503.21144)
 - **LiteAvatar**: a audio2face model for realtime 2D chat avatar. [Code](https://github.com/HumanAIGC/lite-avatar)
