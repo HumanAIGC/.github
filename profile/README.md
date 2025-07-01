@@ -2,6 +2,7 @@
 We are the HumanAIGC Team at Tongyi, Alibaba. We focus on the understanding and generation of human-centric content.
 
 # Projects 
+- **MirrorMe**: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation. [Paper](https://arxiv.org/abs/2506.22065)
 - **SwapAnyHead**: Controllable and Expressive One-Shot Video Head Swapping. [Project](https://humanaigc.github.io/SwapAnyHead/), [Paper](https://arxiv.org/abs/2506.16852)
 - **FaceTimelineControl**: Exploring Timeline Control for Facial Motion Generation. [Project](https://humanaigc.github.io/facial-motion-timeline-control/), [Paper](https://arxiv.org/abs/2505.20861)
 - **MotionRAG-Diff**: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation. [Project](https://humanaigc.github.io/MotionRAG-Diff/), [Paper](https://arxiv.org/abs/2506.02661)
