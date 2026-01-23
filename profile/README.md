@@ -3,7 +3,7 @@ We are the HumanAIGC Team at Tongyi, Alibaba. We focus on the understanding and 
 
 # Projects 
 - **SyncAnyone**: Implicit Disentanglement via Progressive Self-Correction for Lip-Syncing in the wild. [Paper](https://arxiv.org/abs/2512.21736), [Project](https://humanaigc.github.io/sync_anyone_demo_page/)
-- **Knot Forcing**: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation. [Paper](https://arxiv.org/abs/2512.21734), [Project](https://humanaigc.github.io/knot_forcing_demo_page/)
+- **Knot Forcing**: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation. [Paper](https://arxiv.org/abs/2512.21734), [Project](https://humanaigc.github.io/knot_forcing_demo_page/), [Code](https://github.com/HumanAIGC/knot_forcing)
 - **Wan-Animate**: Unified Character Animation and Replacement with Holistic Replication. [Paper](https://arxiv.org/abs/2509.14055), [Project](https://humanaigc.github.io/wan-animate/), [Code](https://github.com/Wan-Video/Wan2.2)
 - **Wan-S2V**: Audio-Driven Cinematic Video Generation. [Paper](https://arxiv.org/abs/2508.18621), [Project](https://humanaigc.github.io/wan-s2v-webpage/), [Code](https://github.com/Wan-Video/Wan2.2)
 - **MirrorMe**: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation. [Paper](https://arxiv.org/abs/2506.22065)
