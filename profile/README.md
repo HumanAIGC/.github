@@ -2,6 +2,7 @@
 We are the HumanAIGC Team at Tongyi, Alibaba. We focus on the understanding and generation of human-centric content.
 
 # Projects 
+- **WanToFight**: Real-Time Generative Game Engine for Multi-Player Combat Interaction. [Paper](https://arxiv.org/abs/2607.12592)  [Project](https://humanaigc.github.io/wantofight/)
 - **Wan-Dancer**: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation. [Paper](https://arxiv.org/abs/2607.09581), [Project]([https://arxiv.org/abs/2607.09581](https://humanaigc.github.io/wan-dancer-project/)), [Code](https://github.com/Wan-Video/Wan-Dancer)
 - **UCM**: Unifying Camera Control and Memory with Time-aware Positional Encoding Warping for World Models. [Paper](https://arxiv.org/pdf/2602.22960), [Project](https://humanaigc.github.io/ucm-webpage/)
 - **SyncAnyone**: Implicit Disentanglement via Progressive Self-Correction for Lip-Syncing in the wild. [Paper](https://arxiv.org/abs/2512.21736), [Project](https://humanaigc.github.io/sync_anyone_demo_page/)
